@@ -1,0 +1,45 @@
+{
+  "joy": [
+    "happy", "joy", "joyful", "delighted", "glad", "cheerful", "pleased",
+    "excited", "thrilled", "wonderful", "great", "love", "loved", "loving",
+    "fantastic", "amazing", "smile", "smiling", "laugh", "laughing",
+    "grateful", "content", "blessed", "elated", "ecstatic", "fun", "yay",
+    "awesome", "delightful", "sunshine", "celebrate"
+  ],
+  "sadness": [
+    "sad", "unhappy", "cry", "crying", "cried", "tears", "depressed",
+    "down", "miserable", "heartbroken", "grief", "sorrow", "sorrowful",
+    "lonely", "alone", "hopeless", "hurt", "disappointed", "gloomy",
+    "mournful", "regret", "loss", "lost", "devastated", "upset", "blue",
+    "grieving", "despair", "sob", "sobbing"
+  ],
+  "anger": [
+    "angry", "mad", "furious", "rage", "enraged", "annoyed", "irritated",
+    "hate", "hated", "hostile", "outraged", "resentful", "frustrated",
+    "livid", "hateful", "aggravated", "bitter", "infuriated", "seething",
+    "cross", "irate", "fuming", "provoked", "disgusted", "grumpy",
+    "vengeful", "hostility", "yell", "yelling", "shout"
+  ],
+  "fear": [
+    "afraid", "scared", "fear", "fearful", "terrified", "anxious",
+    "nervous", "worried", "worry", "panic", "panicked", "dread",
+    "horrified", "frightened", "alarmed", "uneasy", "apprehensive",
+    "terror", "petrified", "spooked", "threatened", "insecure",
+    "trembling", "shaking", "startled", "phobia", "creepy", "haunted",
+    "nightmare", "dangerous"
+  ],
+  "surprise": [
+    "surprised", "surprise", "shocked", "shocking", "astonished",
+    "amazed", "startled", "unexpected", "unbelievable", "wow", "whoa",
+    "stunned", "speechless", "unpredictable", "sudden", "suddenly",
+    "astounded", "bewildered", "flabbergasted", "incredible", "gasp",
+    "wonder", "curious", "unforeseen", "remarkable", "jaw-dropping"
+  ],
+  "disgust": [
+    "disgusted", "disgusting", "gross", "revolting", "nasty", "yuck",
+    "ew", "eww", "repulsive", "repulsed", "sick", "sickening", "vile",
+    "nauseating", "nauseated", "foul", "filthy", "distasteful",
+    "loathsome", "icky", "rancid", "putrid", "abhorrent", "offensive",
+    "obnoxious", "yucky", "grimy", "revolted"
+  ]
+}
